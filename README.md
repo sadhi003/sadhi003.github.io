@@ -1,7 +1,7 @@
 
 
 <div align="center">
-   <img src = "https://avatars2.githubusercontent.com/u/" width="150" height="150" /><br>
+   <img src = "https://avatars2.githubusercontent.com/u/8798209?s=400&u=305e9db87ab9bedcf0dd9675dcf35bcedc41de9d&v=4" width="150" height="150" /><br>
    Adhikari S.(Ph.D. Physics)<br>
 </div>
 <br>
