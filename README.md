@@ -10,8 +10,13 @@
 | [Linkedin](https://www.linkedin.com/in/sadhi003/)| [Github](https://github.com/sadhi003) |[Twitter](https://twitter.com/sadhi003) | [Udacity]() |
  
  
- I am a Physicist. Currently, my interest is in Data Science, Machine Learning and Artificial Intelligence. I have two parallel thoughts for model building perspective: simulation of a mathematical model and optimization of the proposed model over a large data set. I think more in first perspective 'simulation of a mathematical model' when we are familiar with dynamics of the system under study and explore more in that part where analytical solution does not exist. Here we technically go from model to data generation. The second part 'optimization of the proposed model' comes with machine learning which goes from data to model building (opposite to the first one). Proper feature engineering and tuning of the model parameters are the most important part of the optimization.
- 
+ **Projects:** 
+
+|   |   |   |   |
+| --- | --- | --- | --- |
+|<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9JfuZrUaqE_Hg01qsct5WY700NmeFqH8AlrwKVaTJMX5dJp2K" width="25" height="25" /> |[Deep Learning](https://sadi003.github.io/mlp/)  |<img src = "https://blog.sollers.edu/hs-fs/hubfs/ImgOptimize/Deep%20Learning%20790.jpg?t=1508581759159&width=781&height=521&name=Deep%20Learning%20790.jpg" width="25" height="25" /> |[Deep Learning](https://sadhi003.github.io/mlp/)  |  
+|<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGl205uvyAdOrxHnGfWNH9Z5vOFg0ot3rsvFB9UzeOIbNNMxUL" width="25" height="25" /> |[Artificial Intelligence](https://sadhi003.github.io/aip/)| <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZHIASPuh2Q7ETJynBEWvGe00YaipO7Fy6327PpoQFGH6w3p9" width="25" height="25" />| [Self Driving Car](https://sadhi003.github.io/carp/)  | 
+
  
 ### Projects On Artificial Intelligence
 
