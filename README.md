@@ -14,9 +14,7 @@
 
 |   |   |   |   |
 | --- | --- | --- | --- |
-|<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9JfuZrUaqE_Hg01qsct5WY700NmeFqH8AlrwKVaTJMX5dJp2K" width="25" height="25" /> |[Deep Learning](https://sadi003.github.io/mlp/)  |<img src = "https://blog.sollers.edu/hs-fs/hubfs/ImgOptimize/Deep%20Learning%20790.jpg?t=1508581759159&width=781&height=521&name=Deep%20Learning%20790.jpg" width="25" height="25" /> |[Deep Learning](https://sadhi003.github.io/mlp/)  |  
-|<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGl205uvyAdOrxHnGfWNH9Z5vOFg0ot3rsvFB9UzeOIbNNMxUL" width="25" height="25" /> |[Artificial Intelligence](https://sadhi003.github.io/aip/)| <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZHIASPuh2Q7ETJynBEWvGe00YaipO7Fy6327PpoQFGH6w3p9" width="25" height="25" />| [Self Driving Car](https://sadhi003.github.io/carp/)  | 
-
+|<img src = https://blog.sollers.edu/hs-fs/hubfs/ImgOptimize/Deep%20Learning%20790.jpg?t=1508581759159&width=781&height=521&name=Deep%20Learning%20790.jpg" width="25" height="25" /> |[Deep Learning](https://sadi003.github.io/mlp/)  |"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGl205uvyAdOrxHnGfWNH9Z5vOFg0ot3rsvFB9UzeOIbNNMxUL" width="25" height="25" /> |[Artificial Intelligence](https://sadhi003.github.io/aip/) |  
  
 ### Projects On Artificial Intelligence
 
