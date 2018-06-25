@@ -7,7 +7,7 @@
 <br>
 
 **Find me at:** 
-| [Linkedin](https://www.linkedin.com/in/sadhi003/)| [Github](https://github.com/sadhi003) |[Twitter](https://twitter.com/sadhi003) | [Udacity]() |
+| [Linkedin](https://www.linkedin.com/in/sadhi003/)| [Github](https://github.com/sadhi003) |
  
  
 **Projects:** 
