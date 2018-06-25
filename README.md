@@ -14,7 +14,7 @@
 
 |   |   |   |   |
 | --- | --- | --- | --- |
-|<img src = "https://blog.sollers.edu/hs-fs/hubfs/ImgOptimize/Deep%20Learning%20790.jpg?t=1508581759159&width=781&height=521&name=Deep%20Learning%20790.jpg" width="25" height="25" /> |[Deep Learning](https://sadhi003.github.io/dlnd/)  |  
+|<img src = "https://blog.sollers.edu/hs-fs/hubfs/ImgOptimize/Deep%20Learning%20790.jpg?t=1508581759159&width=781&height=521&name=Deep%20Learning%20790.jpg" width="25" height="25" /> |[Deep Learning](https://github.com/sadhi003/dlnd/)  |  
 |<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGl205uvyAdOrxHnGfWNH9Z5vOFg0ot3rsvFB9UzeOIbNNMxUL" width="25" height="25" /> |[Artificial Intelligence](https://sadhi003.github.io/aip/)| 
 
 
